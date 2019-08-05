@@ -3,6 +3,8 @@
 
 <img src="https://www.fullstackreact.com/assets/images/fullstack-react-native-book-cover-hardcover-003-copy.png" alt="Book Cover" width="30%">
 
+# See current list of apps [HERE](https://expo.io/@maxjw)
+
 # Weather App
 ## [Link](https://expo.io/@maxjw/weather)
 ## Screenshots
