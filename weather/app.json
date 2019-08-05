@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Weather",
+    "description": "A simple weather app displaying the city entered, weather, and temperature. Displays a nice background image depending on the weather received as well.",
     "slug": "weather",
     "privacy": "public",
     "sdkVersion": "34.0.0",
