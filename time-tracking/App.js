@@ -38,7 +38,7 @@ export default class App extends React.Component {
 
           return {
             ...timer,
-            elapsed: isRunniong ? elapsed + TIME_INTERVAL : elapsed,
+            elapsed: isRunning ? elapsed + TIME_INTERVAL : elapsed,
           };
         }),
       });
