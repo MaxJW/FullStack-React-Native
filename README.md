@@ -38,6 +38,6 @@
 ## Topics Learned
 * Working with different React Native Components
 * Creating seperate screens to show/hide using `Modal`
-* Asynchronous storage through an API (`import { AsyncStorage } from 'react-native'`}
+* Asynchronous storage through an API (`import { AsyncStorage } from 'react-native'`)
 * Difference between `FlatList` and `ScrollView`
 * Should now have ability to read through docs and implement any component necessary
