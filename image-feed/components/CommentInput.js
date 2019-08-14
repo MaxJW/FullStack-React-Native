@@ -35,7 +35,7 @@ export default class CommentInput extends React.Component {
         const { text } = this.state;
 
         return (
-            <View style={StyleSheet.container}>
+            <View style={styles.container}>
                 <TextInput
                     style={styles.input}
                     value={text}
