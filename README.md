@@ -37,7 +37,7 @@
 <img src="https://raw.github.com/MaxJW/FullStack-React-Native/master/screenshots/image-feed/1.png" alt="w1" width="30%"> <img src="https://raw.github.com/MaxJW/FullStack-React-Native/master/screenshots/image-feed/2.png" alt="w2" width="30%"> <img src="https://raw.github.com/MaxJW/FullStack-React-Native/master/screenshots/image-feed/3.png" alt="w3" width="30%">
 ## Topics Learned
 * Working with different React Native Components
-* Creating seperate screens to show/hide using Modal
-* Asynchronous storage through an API
-* Difference between FlatList and ScrollView
+* Creating seperate screens to show/hide using `Modal`
+* Asynchronous storage through an API (`import { AsyncStorage } from 'react-native'`}
+* Difference between `FlatList` and `ScrollView`
 * Should now have ability to read through docs and implement any component necessary
